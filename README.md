@@ -1,1 +1,1 @@
-# customer_segmentaion_kmeans
+# customer_segmentation_kmeans
